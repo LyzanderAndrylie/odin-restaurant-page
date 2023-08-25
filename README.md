@@ -17,4 +17,4 @@ To check out full requirements, click this [link](https://www.theodinproject.com
 List of resources that helped me to create this project:
 
 1. [Chat GPT](https://chat.openai.com/) for copywriting.
-2. [Image Creator from Microsoft Bing] for restaurant image.
+2. [Image Creator from Microsoft Bing](https://www.bing.com/create) for restaurant image.
