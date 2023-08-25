@@ -51,7 +51,7 @@ export default class HomeContent implements MyElement {
           of culinary enchantment. Odin's legacy lives on through our dishes,
           and we invite you to partake in the magic.
         </p>
-        <div class="text-center">
+        <div class="flex justify-center items-center">
           <button
             class="w-80 rounded-xl bg-tussock-500 p-4 font-bold text-white hover:bg-tussock-600 active:bg-tussock-700"
           >
