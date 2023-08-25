@@ -1,7 +1,20 @@
-# ODIN WEBPACK TS TEMPLATE
+# Odin Restaurant Page
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Simple Restaurant Page created with TypeScript.
 
-This template is created to create a simple HTML project for [The Odin Project](https://www.theodinproject.com/ "The Odin Project") using the following technologies.
+## Result
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,tailwind,webpack,github)](https://skillicons.dev)
+Check out here! :smile:
+
+:link: <https://lyzanderandrylie.github.io/odin-restaurant-page/index.html>
+
+## Requirements
+
+To check out full requirements, click this [link](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page "Project: Restaurant Page")  
+
+## Note
+
+List of resources that helped me to create this project:
+
+1. [Chat GPT](https://chat.openai.com/) for copywriting.
+2. [Image Creator from Microsoft Bing] for restaurant image.
